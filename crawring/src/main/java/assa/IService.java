@@ -1,0 +1,6 @@
+package myjackson.assa;
+
+public interface IService {
+	public void deserialize() throws Exception;
+	public void serialize() throws Exception;
+}
